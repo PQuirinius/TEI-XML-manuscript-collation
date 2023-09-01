@@ -1,1 +1,1 @@
-# TEI-XML-manuscript-collation
+# TEI-XML-manuscript-collatio
